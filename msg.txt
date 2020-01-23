@@ -1,0 +1,9 @@
+{Hello|hi|Hey|Dear} %name%
+
+{Good day to you|Greeting|Greeting,,,,}
+
+{We are Egyptian Company|We are supplier|We are exporter|We are wholesaler|We are supply|We are Produce Wholesaler|We are providing} fruits and vegetables highest quality
+
+{Please|Pls} {add me|adding me} in your connection to easily to offer you 
+
+Best; Mohamed
